@@ -22,7 +22,7 @@ This project analyzes customer behavior and revenue using SQL. It helps to uncov
 ## Key Files
 - `analysis.sql`: Includes main analytical queries.
 - `data_cleaning.sql`: Script for cleaning and preparing data for analysis.
-- `visualizations/dashboard.ipynb`: Jupyter Notebook for visualizing results.
+- `visualizations/dashboard.ipynb`: Tableau for visualizing results.
 
 ## How to Use
 1. Clone the repository.
