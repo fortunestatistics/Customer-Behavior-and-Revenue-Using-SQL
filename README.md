@@ -31,7 +31,8 @@ This project analyzes customer behavior and revenue using SQL. It helps to uncov
 4. Explore visualizations for results.
 
 ## Results
-The analysis reveals key insights into customer behavior, helping to inform marketing strategies and product offerings. The results can be interpreted through various visualizations available in the `visualizations/` directory.
+The analysis reveals key insights into customer behavior, helping to inform marketing strategies and product offerings. The results can be interpreted through various visualizations available in the `visualizhttps://public.tableau.com/app/profile/tracy.fortune/viz/E-CommerceRevenueAnalyticsDashboard/TopCustomers#1
+ations/` directory.
 
 ## Conclusion
 This project showcases the value of data analysis in understanding customer behavior and optimizing revenue strategies. Further studies could enhance insights by incorporating additional data sources.
